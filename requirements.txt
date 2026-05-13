@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 streamlit
 pandas
 numpy
+=======
+streamlit
+pandas
+numpy
+>>>>>>> f72d2783a7775997e8e8575127f6129ea84b4be0
 openpyxl
